@@ -128,4 +128,6 @@ supabase/.temp/
 
 .vscode/
 start.sh
-test-bot.sh.vscode/
+test-bot.sh
+.vscode/
+venv/
